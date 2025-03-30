@@ -1,0 +1,20 @@
+System obsługi recepcji hotelu
+
+Zagadnienia:
+    - Diagram przypadków użycia
+    - Diagram klas - ???
+    - Diagramy obiektów (UML)
+    - Diagramy sekwencji
+    - Diagramy stanów
+    - Diagramy aktywności
+
+Aktorzy:
+    - Recepcjoniści
+    - Kierownik recepcji
+
+Funkcje:
+    - wprowadzanie rezerwacji dla gościa hotelowego
+    - meldowanie i wymeldowanie gości
+    - raportowanie stanu rezerwacji
+    - generowanie zestawień zajętych pokoi
+    + wyszukiwanie pokoi według rodzaju
