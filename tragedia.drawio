@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.0.5">
+  <diagram name="Strona-1" id="602YngljoFqFpDdHfTga">
+    <mxGraphModel dx="2901" dy="1140" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--1" value="Logowanie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="470" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--2" value="Recepcjonista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--3" value="Kierownik" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--4" value="Baza Pokoi" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="800" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--5" value="Sprzątaczka" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="515" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="90" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--10" value="Zarządzanie Rezerwacjami" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="350" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="180" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="190" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="210" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--24" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="240" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--26" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="250" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--27" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--28" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--29" value="Generowanie Stanów Rezerwacji" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="720" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--30" value="Melduj" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--32" value="Dodaj Rezerwacje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--33" value="Anuluj Rezerwacje" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--34" value="Generowanie Raportu stanu pokoii" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="815" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--35" value="Zarządzanie Meldunkami" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--37" value="Wymelduj" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="580" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--38" value="Generowanie Stanu Okupacji Pokoi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="810" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--40" value="Wyszukiwanie pokoi według rodzaju" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--41" value="Klient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="620" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--50" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--51" value="System zarządzania rezerwacjami" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--57" value="System zarządzania meldunkami" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="515" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--59" value="Zarządzanie Pracownikami" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-63" y="1061" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--60" value="Dodaj" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="1014" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--61" value="Zwolnij" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1076" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--62" value="Edytuj Grafik" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1138" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eKQmVmCZHxFtnJTIKK4--63" value="Baza Pracowników" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="1061" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

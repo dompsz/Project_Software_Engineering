@@ -11,10 +11,20 @@ Zagadnienia:
 Aktorzy:
     - Recepcjoniści
     - Kierownik recepcji
+    - Sprzątaczki
+    - Baza pokoi
+    - Baza pracowników
+    - Klient
+    - System zarządzania rezerwacjami
+    - System zarządzania meldunkami
 
 Funkcje:
-    - wprowadzanie rezerwacji dla gościa hotelowego
+    - generowanie zestawień zajętych pokoi 
+        (po zalogowaniu automatycznie, przycisk odśwież i przed zatwierdzeniem operacji)
+        - raportowanie stanu rezerwacji
     - meldowanie i wymeldowanie gości
-    - raportowanie stanu rezerwacji
-    - generowanie zestawień zajętych pokoi
+    - wprowadzanie rezerwacji dla gościa hotelowego
+    + anulowanie rezerwacji
     + wyszukiwanie pokoi według rodzaju
+    + rezerwacje online
+    + zarządzanie pracownikami i grafikiem (kierownik)
